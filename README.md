@@ -9,6 +9,7 @@
 
 - [x] [Sandi Metz, Rules](https://www.youtube.com/watch?v=npOGOmkxuio)
 - [x] [Sandi Metz, Nothing is something](https://www.youtube.com/watch?v=29MAL8pJImQ)
+- [x] [Sandi Metz, All the small things](http://confreaks.tv/videos/railsconf2014-all-the-little-things)
 
 ### Entertainment
 
