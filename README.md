@@ -4,6 +4,7 @@
 
 - [x] [Why do we work](https://www.youtube.com/watch?v=5aH2Ppjpcho)
 - [x] [Sandi Metz, Tells the future](http://confreaks.tv/videos/rubyconf2014-madam-sandi-tells-your-future)
+- [x] [Ben Orenson, You should take a codecation](https://www.youtube.com/watch?v=rOE9ydzHQ88)
 
 ### Code stuff
 
