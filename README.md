@@ -25,9 +25,8 @@
 
 - [ ] [Difficult converstions](http://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447)
 
-### Code & Stuff
 
-- [ ] [Navigation](http://jeroenjanssens.com/2013/08/16/quickly-navigate-your-filesystem-from-the-command-line.html)
 
 ### Code stuff
 
+- [ ] [Terminal navigation](http://jeroenjanssens.com/2013/08/16/quickly-navigate-your-filesystem-from-the-command-line.html)
