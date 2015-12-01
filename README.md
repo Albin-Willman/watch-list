@@ -12,7 +12,7 @@
 - [x] [Sandi Metz, Nothing is something](https://www.youtube.com/watch?v=29MAL8pJImQ)
 - [x] [Sandi Metz, All the small things](http://confreaks.tv/videos/railsconf2014-all-the-little-things)
 - [x] [Ben Orenstein, Refactoring from good to great](https://www.youtube.com/watch?v=L1G--mPscQM&list=PLes3flOHOmSrbqRhkZHCLLMCxuHCABCCE&index=7)
-- [ ] [Rack middleware](http://railscasts.com/episodes/151-rack-middleware?autoplay=true)
+- [x] [Rack middleware](http://railscasts.com/episodes/151-rack-middleware?autoplay=true)
 
 ### Entertainment
 
