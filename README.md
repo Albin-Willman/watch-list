@@ -25,7 +25,7 @@
 
 ### Leadership
 
-- [ ] [Difficult converstions](http://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447)
+- [-] [Difficult converstions](http://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447)
 
 
 
