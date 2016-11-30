@@ -6,6 +6,10 @@
 - [x] [Why do we work](https://www.youtube.com/watch?v=5aH2Ppjpcho)
 - [x] [Sandi Metz, Tells the future](http://confreaks.tv/videos/rubyconf2014-madam-sandi-tells-your-future)
 - [x] [Ben Orenstein, You should take a codecation](https://www.youtube.com/watch?v=rOE9ydzHQ88)
+- [x] [Nickolas Means, How to Crash an Airplane](https://www.youtube.com/watch?v=S2FUSr3WlPk)
+- [x] [Ernie Miller, How to Build a Skyscraper](https://www.youtube.com/watch?v=x8mSR9iAm74)
+
+
 
 ### Code stuff
 
